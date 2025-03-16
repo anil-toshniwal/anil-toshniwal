@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anil Toshniwal 
 
-🚀 **Tech Architect | Cloud Java | Kubernetes | Microservices | Go | Python**
+🚀 ** Software Engineer | Cloud Java | Kubernetes | Microservices | Go | Python**
 
 ### 🔹 About Me
 - 👨‍💻 Experienced in building scalable and resilient backend architectures.
